@@ -4,7 +4,7 @@ This package implements decoding and encoding PCM data
 
 ## Installation
 
-```nimble install https://github.com/kur1zu/nimg711```
+```nimble install https://github.com/amonsh1/nimg711```
 
 ## Usage
 
